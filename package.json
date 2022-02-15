@@ -1,0 +1,14 @@
+{
+  "name": "open-slides-development",
+  "version": "1.0.0",
+  "description": "Opens a google app presentation and script execution log page based on clasp scriptId setting",
+  "main": "index.js",
+	"bin" : {
+		"open-slides-development": "./index.js"
+	},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Schulz",
+  "license": "ISC"
+}
