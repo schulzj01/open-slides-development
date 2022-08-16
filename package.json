@@ -1,6 +1,6 @@
 {
   "name": "open-slides-development",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Opens a google app presentation and script execution log page based on clasp scriptId setting",
   "main": "index.js",
   "bin": {
